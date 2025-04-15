@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- <a href="https://app.daily.dev/SEB_T"><img src="https://api.daily.dev/devcards/209b91ca95584a91be0f7625ab2e31b3.png?r=l3h" width="400" alt="Sébastien TEXIER's Dev Card"/></a> -->
+
+
+Compétences:
+Test unitaire / API - API RESTfull / POO
+Languages:
+JavaScript / Java / C# / C++ / CSS / HTML / PHP / SQL / Python / Ruby
+Framework:
+Vue / Nuxt / React / MySQL / Symfony / Smashing
+Applications:
+Visual Studio Code / IntelliJ / AndroidStudio / PhpStorm / WebStorm / GitHub / VirtualBox / Laragon
