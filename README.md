@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/SEB_T"><img src="https://api.daily.dev/devcards/209b91ca95584a91be0f7625ab2e31b3.png?r=l3h" width="400" alt="Sébastien TEXIER's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/SEB_T"><img src="https://api.daily.dev/devcards/209b91ca95584a91be0f7625ab2e31b3.png?r=l3h" width="400" alt="Sébastien TEXIER's Dev Card"/></a> -->
